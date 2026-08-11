@@ -46,7 +46,7 @@ Copy this repository into your personal Codex skills directory:
 git clone https://github.com/cruxism0218-tech/medical-pdf-evidence-review.git ~/.codex/skills/medical-pdf-evidence-review
 ```
 
-Because this is a private repository, cloning requires GitHub access to `cruxism0218-tech/medical-pdf-evidence-review`.
+If this repository is made private, cloning requires GitHub access to `cruxism0218-tech/medical-pdf-evidence-review`.
 
 ## Use
 
