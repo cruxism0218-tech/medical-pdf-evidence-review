@@ -1,0 +1,25 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Temporary and generated files
+tmp/
+temp/
+output/
+*.log
+__pycache__/
+*.py[cod]
+node_modules/
