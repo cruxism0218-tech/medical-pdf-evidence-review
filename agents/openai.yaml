@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical PDF Evidence Review"
+  short_description: "의사용 심화 의학 PDF 근거 해설서와 QA 완료 PDF 생성"
+  default_prompt: "Use $medical-pdf-evidence-review to turn this medical PDF into a textbook-depth Korean physician study guide, verify it against current evidence, and deliver QA-checked Markdown and PDF outputs."
